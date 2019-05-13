@@ -97,7 +97,7 @@
     "source-map": "^0.7.3",
     "strip-ansi": "^5.0.0",
     "stylis": "^3.5.4",
-    "yargs": "^13.2.1"
+    "yargs": "^13.2.4"
   },
   "resolutions": {
     "**/babel-core": "7.0.0-bridge.0"
